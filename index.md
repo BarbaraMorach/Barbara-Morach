@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-  background-color: lightblue;
+  background-color: lightgreen;
 }
 
 h1 {
@@ -11,6 +11,7 @@ h1 {
 }
 
 p {
+  color: darkgreen;
   font-family: verdana;
   font-size: 20px;
 }
@@ -18,8 +19,8 @@ p {
 </head>
 <body>
 
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
+<h1>Technical Writing Portfolio</h1>
+<p>Welcome to my 2-bit attempt at a portfolio.</p>
 
 </body>
 </html>
