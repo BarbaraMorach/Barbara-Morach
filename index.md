@@ -11,7 +11,7 @@ h1 {
 }
 h2 {
   color: darkgreen;
-  text-aling: center;
+  text-align: center;
 }
 p {
   font-family: verdana;
@@ -21,7 +21,7 @@ p {
 </head>
 <body>
 
-<h1>Barbara Morach</h1>
+<h1>Anonymous</h1>
 <h2>Technical Writing Portfolio</h2>
 <p>Welcome to my 2-bit attempt at a portfolio.</p>
 
