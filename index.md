@@ -6,12 +6,14 @@ body {
 }
 
 h1 {
-  color: white;
+  color: darkgreen;
   text-align: center;
 }
-
-p {
+h2 {
   color: darkgreen;
+  text-aling: center;
+}
+p {
   font-family: verdana;
   font-size: 20px;
 }
