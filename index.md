@@ -21,7 +21,8 @@ p {
 </head>
 <body>
 
-<h1>Technical Writing Portfolio</h1>
+<h1>Barbara Morach</h1>
+<h2>Technical Writing Portfolio</h2>
 <p>Welcome to my 2-bit attempt at a portfolio.</p>
 
 </body>
