@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-  background-color: lightgreen;
+  background-color: rgb(217, 232, 201);
 }
 
 h1 {
